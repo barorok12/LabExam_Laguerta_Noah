@@ -5,6 +5,6 @@ function validateForm() {
     alert("Please fill in both fields.");
     return false;
   }
-  window.location.href = "home.html"; // redirect on success
+  window.location.href = "home.html";
   return false;
 }
